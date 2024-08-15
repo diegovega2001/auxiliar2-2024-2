@@ -5,10 +5,10 @@
 Para hacer el auxiliar clone este repositorio
 con:
 ```shell
-git clone 
+git clone https://github.com/dcc-cc3002/auxiliar2-2024-2.git
 ```
 
-El repositorio cuenta con dos ramas `main` donde
+El repositorio cuenta con dos ramas `master` donde
 esta el esqueleto básico del problema y
 `solution` donde está la pauta
 
@@ -19,7 +19,7 @@ git checkout solution
 
 Para volver al esqueleto:
 ```shell
-git checkout main
+git checkout master
 ```
 
 
